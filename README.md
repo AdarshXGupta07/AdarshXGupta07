@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Adarsh
-
+![Pro](https://img.shields.io/badge/GitHub-Pro-blue)
 Software Developer | Cloud & DevOps  
 I design, build, and ship reliable software — not just code 🚀
 
